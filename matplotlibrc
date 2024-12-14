@@ -1,0 +1,41 @@
+# Figure settings
+figure.figsize: 10, 6
+figure.dpi: 100
+figure.facecolor: white
+figure.edgecolor: white
+
+# Font settings
+font.size: 12
+font.family: serif
+font.serif: Times New Roman
+
+# Axes settings
+axes.titlesize: 14
+axes.labelsize: 12
+axes.titleweight: bold
+axes.labelweight: bold
+axes.grid: True
+axes.spines.top: False
+axes.spines.right: False
+
+# Grid settings
+grid.linestyle: --
+grid.alpha: 0.3
+
+# Line settings
+lines.linewidth: 2
+lines.markersize: 8
+
+# Legend settings
+legend.fontsize: 10
+legend.frameon: True
+legend.framealpha: 0.8
+
+# Scatter plot settings
+scatter.marker: o
+scatter.edgecolors: none
+
+# Save settings
+savefig.dpi: 300
+savefig.bbox: tight
+savefig.format: png
